@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">IdolView</string>
+    <string name="switch_saveitemstoMobile" translatable="false">switch_saveitemstoMobile</string>
+    <string name="nofilter"  translatable="false">filter</string>
+    <string name="show_name" translatable="false">show_name</string>
+    <string name="idol_icon_change" translatable="false">ChangeIcon</string>
+    <string name="savetoSD" translatable="false">savetoDIMM</string>
+    <string name="setAdUnitId2" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="setAdUnitId" translatable="false">ca-app-pub-0547405774182700/5282012864</string>
+    <string name="sharedPreferencesFilename" translatable="false">setopt</string>
+    <string name="gui_nofilter">imgfilter</string>
+    <string name="gui_show_name">show_title</string>
+    <string name="gui_idol_icon_change">Send Jsonfile</string>
+    <string name="gui_savetoSD">savetoDIMM</string>
+    <string name="gui_ftp_username">FTP User</string>
+    <string name="gui_ftp_url">FTP URL</string>
+    <string name="gui_ftp_Password" >FTP Password</string>
+    <string name="gui_seting">seting</string>
+    <string name="gui_wait">wait.</string>
+    <string name="gui_search">Search</string>
+    <string name="gui_save_icon">saveIcon</string>
+    <string name="bigimg_url">Img URL</string>
+    <string name="gui_searchIdol_countzero">NoImg</string>
+    <string name="gui_setopt_exit">Exit</string>
+    <string name="gui_json_send">Send Jsonfile</string>
+    <string name="gui_json_path">Json path</string>
+    <string name="gui_json_sync">Json Synchronization</string>
+    <string name="ftp_json_send_Server_start">ftp_json_send_Server_start</string>
+    <string name="gui_Send_jsonfile">SendJsongtoServer</string>
+    <string name="gui_Sync_jsonfile">SyncJsongtoServer</string>
+    <string name="gui_synctrue">Sync_true</string>
+    <string name="gui_syncflase">Sync_error</string>
+    <string name="gui_firstsany">JSON Sany</string>
+</resources>

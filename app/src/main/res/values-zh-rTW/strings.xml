@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">耶利亞女郎</string>
+
+    <string name="bigimg_url">圖片地址</string>
+    <string name="ftp_json_send_Server_start">ftp_json_send_Server_start</string>
+    <string name="gui_Send_jsonfile">發送JSON文件到服務器</string>
+    <string name="gui_nofilter">圖片過濾器</string>
+    <string name="gui_savetoSD">保存圖片到SD卡</string>
+    <string name="gui_save_icon">保存縮略圖到緩存</string>
+    <string name="gui_idol_icon_change">更改縮略圖</string>
+    <string name="gui_show_name">顯示標題</string>
+    <string name="gui_ftp_Password">FTP密碼</string>
+    <string name="gui_ftp_url">FTP網址</string>
+    <string name="gui_ftp_username">FTP用戶名</string>
+    <string name="gui_json_path">同步JSON文件地址</string>
+    <string name="gui_json_sync">同步JSON</string>
+    <string name="gui_Sync_jsonfile">同步JSON文件</string>
+    <string name="gui_seting">設定</string>
+    <string name="gui_search">搜索</string>
+    <string name="gui_json_send">發送本地JSON文件到FTP服務器</string>
+    <string name="gui_wait">請等待</string>
+    <string name="gui_firstsany">正在同步JSON文件</string>
+    <string name="gui_syncflase">JSON 文件同步有錯誤</string>
+    <string name="gui_synctrue">JSON 文件同步成功</string>
+    <string name="gui_searchIdol_countzero">未搜索到</string>
+    <string name="gui_setopt_exit">退出</string>
+
+</resources>

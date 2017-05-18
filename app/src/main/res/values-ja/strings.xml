@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Idol写真集め</string>
+
+    <string name="ftp_json_send_Server_start">ftp_json_send_Server_start</string>
+    <string name="gui_Send_jsonfile">JSONファイルを送信</string>
+    <string name="bigimg_url">画像アドレス</string>
+    <string name="gui_nofilter">画像フィルタ</string>
+    <string name="gui_savetoSD">画像をSDに保存</string>
+    <string name="gui_save_icon">サムネイルをキャッシュに保存</string>
+    <string name="gui_idol_icon_change">サムネイルの変更</string>
+    <string name="gui_show_name">タイトルの表示</string>
+    <string name="gui_ftp_Password">FTPパスワード</string>
+    <string name="gui_ftp_url">FTPアドレス</string>
+    <string name="gui_ftp_username">FTPユーザー名</string>
+    <string name="gui_json_path">同期JSONファイルアドレス</string>
+    <string name="gui_json_sync">JSONを同期</string>
+    <string name="gui_Sync_jsonfile">JSONファイルを同期</string>
+    <string name="gui_search">検索</string>
+    <string name="gui_seting">設定</string>
+    <string name="gui_json_send">ローカルJSONをFTPサーバーに送信</string>
+    <string name="gui_wait">wait.</string>
+    <string name="gui_firstsany">JSON ファイル同期中</string>
+    <string name="gui_syncflase">JSON ファイル同期失敗の可能性があります。</string>
+    <string name="gui_synctrue">JSON ファイル同期成功</string>
+    <string name="gui_searchIdol_countzero">見つかりません</string>
+    <string name="gui_setopt_exit">Exit</string>
+
+</resources>

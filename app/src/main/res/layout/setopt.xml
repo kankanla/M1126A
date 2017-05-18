@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <Switch
+        android:id="@+id/switch_Filter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="12dp"
+        android:text="@string/gui_nofilter" />
+
+    <Switch
+        android:id="@+id/switch_savetoMobile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="12dp"
+        android:text="@string/gui_savetoSD" />
+
+    <Switch
+        android:id="@+id/switch_saveitemstoMobile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="12dp"
+        android:text="@string/gui_save_icon" />
+
+    <Switch
+        android:id="@+id/switch_icon_change"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="12dp"
+        android:text="@string/gui_idol_icon_change"/>
+
+    <Switch
+        android:id="@+id/switch_show_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="12dp"
+        android:text="@string/gui_show_name"/>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="30dp"
+        android:text="@string/gui_ftp_url" />
+
+    <EditText
+        android:id="@+id/edit_ftp_url"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textUri" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/gui_ftp_username" />
+
+    <EditText
+        android:id="@+id/edit_ftp_user"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/gui_ftp_Password" />
+
+    <EditText
+        android:id="@+id/edit_ftp_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPassword" />
+
+    <Button
+        android:id="@+id/ftp_json_send"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/gui_json_send" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="30dp"
+        android:text="@string/gui_json_path" />
+
+    <EditText
+        android:id="@+id/ftp_json_path"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:inputType="textUri" />
+
+    <Button
+        android:id="@+id/ftp_sync"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/gui_json_sync" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text=" " />
+
+    <Button
+        android:id="@+id/buttonOK"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/gui_setopt_exit" />
+
+</LinearLayout>
