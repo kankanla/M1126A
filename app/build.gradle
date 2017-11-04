@@ -1,12 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
+    flavorDimensions "default"
     signingConfigs {
         M1126A {
             keyAlias 'M1126A'
-            keyPassword '66o266o266o2'
+            keyPassword 'xxxxxxxxxxxx'
             storeFile file('I:/Android_Key_store/keyStore.jks')
-            storePassword '66o266o2'
+            storePassword 'xxxxxxxx'
         }
     }
 
@@ -14,7 +15,7 @@ android {
         abortOnError false
     }
     compileSdkVersion 24
-    buildToolsVersion '25.0.0'
+    buildToolsVersion '26.0.2'
     defaultConfig {
         applicationId "sun.dodofei.e560.m1126a"
         minSdkVersion 15
